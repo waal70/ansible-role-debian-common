@@ -1,4 +1,4 @@
-galaxy_info:
+galaxy_info: # noqa: role-name
   author: waal70 (Andre)
   description: Role to set my preferred details on a Debian fresh install
   company: waal70
