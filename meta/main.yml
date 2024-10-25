@@ -2,11 +2,14 @@ galaxy_info:
   author: waal70 (Andre)
   description: Role to set my preferred details on a Debian fresh install
   company: waal70
-
+  platforms:
+    - name: Debian
+      versions:
+        - bookworm
 
   license: MIT
 
-  min_ansible_version: 2.1
+  min_ansible_version: "2.1"
 
   galaxy_tags: [debian,
                 bootstrap,
